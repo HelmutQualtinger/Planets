@@ -14,7 +14,7 @@ y0 = 0.1                 # Anfangsdehnung gegenüber Ruhelage (kleiner Wert, um 
 x0 = 0.5                 # Anfangsauslenkung nach rechts (für Pendelbewegung)
 z0 = 0.3                 # Anfangsauslenkung nach vorne/hinten (für 3D-Pendelbewegung)
 
-# Szene einrichten
+# Szene einrichten   
 scene.center = vector(0, -0.5, 0)
 
 # Objekte erstellen
